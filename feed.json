@@ -1,0 +1,57 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Moudibier",
+    "description": "",
+    "home_page_url": "https://www.moudibier.ch",
+    "feed_url": "https://www.moudibier.ch/feed.json",
+    "user_comment": "",
+    "icon": "https://www.moudibier.ch/media/website/moudi_cat_logo_white.png",
+    "author": {
+        "name": "Moudibier"
+    },
+    "items": [
+        {
+            "id": "https://www.moudibier.ch/moudis-redale.html",
+            "url": "https://www.moudibier.ch/moudis-redale.html",
+            "title": "Moudis RedAle",
+            "summary": " Beschreibung Das RedAle von Moudibier wird ein Obergäriges, rot farbenes, leichtes, englisches Bier das hoffentlich (fast) jeder mag. Zutaten Malz: Pale Ale Malz Caramunic 3 Hopfen: Columbus Simcoe Hefe: Safeale US 05 Wasser Eigenschaften Eigenschaft Wert Score Farbe (EBC) 22 Bitterkeit (IBU min. 2&hellip;",
+            "content_html": "<div class=\"nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l\">\n<h3 id=\"beschreibung\">Beschreibung</h3>\n<p>Das RedAle von Moudibier wird ein Obergäriges, rot farbenes, leichtes, englisches Bier das hoffentlich (fast) jeder mag.</p>\n<h3 id=\"eindrücke-vom-brewday\">Eindrücke vom Brewday</h3>\n<p><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/redale_1.jpg\" data-is-external-image=\"true\"  alt=\"RedAle Malz\"></p>\n<p><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/redale_2.jpg\" data-is-external-image=\"true\"  alt=\"RedAle Maische\"></p>\n<h3 id=\"zutaten\">Zutaten</h3>\n<ul>\n<li>Malz:\n<ul>\n<li>Pale Ale Malz</li>\n<li>Caramunic 3</li>\n</ul>\n</li>\n<li>Hopfen:\n<ul>\n<li>Columbus</li>\n<li>Simcoe</li>\n</ul>\n</li>\n<li>Hefe: Safeale US 05</li>\n<li>Wasser</li>\n</ul>\n<h3 id=\"eigenschaften\">Eigenschaften</h3>\n<table>\n<thead>\n<tr>\n<th>Eigenschaft</th>\n<th>Wert</th>\n<th>Score</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Farbe (EBC)</td>\n<td>22</td>\n<td>\n<figure class=\"img-beercolor\"><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/EBC_20.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Bitterkeit (IBU min. 2 / max +60)</td>\n<td>64</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star5.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Malzaroma</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Hopfenaroma</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Fruchtaroma</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Schaum</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Alkohol</td>\n<td>5.9%</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Kohlensäure</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n</tbody>\n</table>\n<div class=\"mt6 instapaper_ignoref\"> </div>\n</div>",
+            "author": {
+                "name": "Moudibier"
+            },
+            "tags": [
+                   "Simcoe",
+                   "Safeale US 05",
+                   "RedAle",
+                   "PaleAle",
+                   "Obergärig",
+                   "Columbus",
+                   "Biere"
+            ],
+            "date_published": "2021-06-05T15:24:00+02:00",
+            "date_modified": "2022-02-01T16:23:40+01:00"
+        },
+        {
+            "id": "https://www.moudibier.ch/moudis-weissbier.html",
+            "url": "https://www.moudibier.ch/moudis-weissbier.html",
+            "title": "Moudis Weissbier",
+            "summary": " Beschreibung Das helle Weizen von Moudibier ist ein obergäriges, blondes Bier das in der Nase besonders stark nach Bananenaromen riecht und somit ein einzigartiges Bier. Zutaten Malz: Pilsener Weizen Hell Wiener Hopfen: Saphir Hefe: Wyeast 3068 Wasser Eigenschaften Eigenschaft Wert Score Farbe (EBC) 9.4&hellip;",
+            "content_html": "<main class=\"pb7\" role=\"main\">\n<article class=\"flex-l flex-wrap justify-between mw8 center ph3\">\n<div class=\"nested-copy-line-height lh-copy serif f4 nested-links nested-img mid-gray pr4-l w-two-thirds-l\">\n<h3 id=\"beschreibung\">Beschreibung</h3>\n<p>Das helle Weizen von Moudibier ist ein obergäriges, blondes Bier das in der Nase besonders stark nach Bananenaromen riecht und somit ein einzigartiges Bier.</p>\n<h3 id=\"zutaten\">Zutaten</h3>\n<ul>\n<li>Malz:\n<ul>\n<li>Pilsener</li>\n<li>Weizen Hell</li>\n<li>Wiener</li>\n</ul>\n</li>\n<li>Hopfen:\n<ul>\n<li>Saphir</li>\n</ul>\n</li>\n<li>Hefe: Wyeast 3068</li>\n<li>Wasser</li>\n</ul>\n<h3 id=\"eigenschaften\">Eigenschaften</h3>\n<table>\n<thead>\n<tr>\n<th>Eigenschaft</th>\n<th>Wert</th>\n<th>Score</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Farbe (EBC)</td>\n<td>9.4</td>\n<td>\n<figure class=\"img-beercolor\"><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/EBC_08.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Bitterkeit (IBU min. 2 / max +40)</td>\n<td>13.8</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Malzaroma</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Hopfenaroma</td>\n<td>wenig</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star2.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Fruchtaroma</td>\n<td>viel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star4.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Schaum</td>\n<td>wenig</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star2.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Alkohol</td>\n<td>5.9%</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star4.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n<tr>\n<td>Kohlensäure</td>\n<td>mittel</td>\n<td>\n<figure><img loading=\"lazy\" src=\"https://www.moudibier.ch/images/star3.png\" data-is-external-image=\"true\" ></figure>\n</td>\n</tr>\n</tbody>\n</table>\n</div>\n</article>\n</main><footer class=\"bg-black bottom-0 w-100 pa3\" role=\"contentinfo\">\n<div class=\"flex justify-between\"> </div>\n</footer>",
+            "author": {
+                "name": "Moudibier"
+            },
+            "tags": [
+                   "Wyeast 3068",
+                   "Weizen",
+                   "Weissbier",
+                   "Saphir",
+                   "Pilsner",
+                   "Obergärig",
+                   "Helles Bier",
+                   "Biere"
+            ],
+            "date_published": "2020-12-17T15:26:00+01:00",
+            "date_modified": "2022-02-01T15:47:05+01:00"
+        }
+    ]
+}
